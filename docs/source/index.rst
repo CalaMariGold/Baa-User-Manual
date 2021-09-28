@@ -6,7 +6,7 @@ Baa - Discord Bot Documentation
 Baa is an instance of  `Red Bot (latest, V3) <https://github.com/Cog-Creators/Red-DiscordBot/>`_. Baa uses only approved plugins verified by the Red QA team.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`setup` the bot for your own server.
 
 .. note::
 
