@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Baa - Discord Bot Documentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Baa** is an advanced Discord bot with over 1,000 commands and counting. He includes very robust security features and auto moderation, games, leveling system, economy, QoL commands, AI talking system, VC audio with Spotify integration, and much more.
+
+Baa is an instance of  `Red Bot (latest, V3) <https://github.com/Cog-Creators/Red-DiscordBot/>`_. Baa uses only approved plugins verified by the Red QA team.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Baa is under active development.
 
 Contents
 --------
