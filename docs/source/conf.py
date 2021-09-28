@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Baa Discord Bot'
+copyright = '2021, CalaMariGold'
+author = 'CalaMariGold'
 
 release = '0.1'
 version = '0.1.0'
