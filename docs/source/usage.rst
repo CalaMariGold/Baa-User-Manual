@@ -15,7 +15,7 @@ Once you're in the server and have your Patreon role (which should be given auto
 
    !botaccess addserver <server ID>
 
-``server ID`` is the ID of the server you own and want to invite Baa to. To get your server ID, right click on the icon of your server and click "Copy ID".
+``<server ID>`` is the ID of the server you own and want to invite Baa to. To get your server ID, right click on the icon of your server and click "Copy ID".
 
 .. note::
 
