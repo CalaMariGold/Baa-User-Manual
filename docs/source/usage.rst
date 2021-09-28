@@ -7,7 +7,7 @@ Invite Baa to your server
 ------------
 
 To invite Baa, you must be a $3 or more Patron on CalaMariGold's Patreon. 
-Connect your Patreon account to Discord and join the Shinycord server, Baa's home.
+Connect your Patreon account to Discord and join the Shinycord server, Baa's home:
 `Shinycord <https://calamari.gold/discord/>`_.
 
 Once you're in the server and have your Patreon role (which should be given automatically), type this in the **#baas-playground** channel
