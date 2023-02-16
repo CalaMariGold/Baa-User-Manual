@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+#Baa, Discord Bot User Manual
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+A WIP user manual for how to use Baa on your Discord server.
